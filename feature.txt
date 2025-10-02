@@ -1,0 +1,8 @@
+Tính năng mới: Quản lý người dùng
+
+1. Cho phép đăng ký tài khoản mới.
+2. Hỗ trợ đăng nhập bằng email và mật khẩu.
+3. Cung cấp chức năng đổi mật khẩu.
+4. Thêm phân quyền người dùng: admin, member.
+5. Quản lý hồ sơ cá nhân.
+
