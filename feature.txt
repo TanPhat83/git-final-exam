@@ -1,5 +1,4 @@
-Tính năng mới: Quản lý người dùng
-
+Xin chào, tôi là Nguyễn Tấn Phát
 1. Cho phép đăng ký tài khoản mới.
 2. Hỗ trợ đăng nhập bằng email và mật khẩu.
 3. Cung cấp chức năng đổi mật khẩu.
