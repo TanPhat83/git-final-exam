@@ -20,3 +20,25 @@ Kế hoạch học tập:
 3. Luyện tập commit và quản lý lịch sử phiên bản.
 4. Tham gia các dự án nhỏ để áp dụng kiến thức.
 5. Hoàn thành khóa học Git nâng cao trong 3 tháng tới.
+Xin chào, tôi là Nguyễn Tấn Phát.
+Tôi hiện đang là sinh viên ngành Công nghệ Thông tin.
+Tôi yêu thích việc học hỏi và nghiên cứu công nghệ mới.
+Tôi mong muốn trở thành một lập trình viên giỏi trong tương lai.
+Git và GitHub là công cụ quan trọng để quản lý dự án phần mềm.
+
+Sở thích:
+- Đọc sách công nghệ và lập trình.
+- Chơi thể thao (bóng đá, cầu lông).
+- Nghe nhạc và xem phim.
+
+Kỹ năng:
+- Lập trình Python, C++.
+- Quản lý mã nguồn bằng Git.
+- Làm việc nhóm và thuyết trình.
+
+Kế hoạch học tập:
+- Ôn lại kiến thức về Git và GitHub mỗi ngày.
+- Thực hành branch, merge, rebase.
+- Luyện tập viết README.md và tài liệu dự án.
+- Xem video, đọc tài liệu chính thức về Git.
+- Chuẩn bị cho kỳ thi cuối kỳ về Git.
