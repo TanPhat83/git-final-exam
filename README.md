@@ -1,9 +1,10 @@
 # Git Final Exam
-Họ tên: Nguyễn Tấn Phát  
-MSSV: 224750  
-Ngày làm bài: 02/10/2025  
+
+**Họ và tên:** Nguyễn Tấn Phát 
+**MSSV:** 224750
+**Ngày làm bài:** 2025-10-02
 
 ## Mục tiêu
-- Hoàn thành bài tập kiểm tra hôm nay.  
-- Hoàn thành tốt bài tập giảng viên giao.  
-- Áp dụng Git vào các dự án thực tế.
+1. Học cách sử dụng Git để quản lý mã nguồn và lịch sử thay đổi.  
+2. Thành thạo thao tác branch, commit, push, pull và làm việc nhóm qua PR/MR.  
+3. Nâng cao kỹ năng review code và quy trình phát hành (merge vào develop/main).
